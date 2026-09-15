@@ -1,0 +1,7 @@
+title: asdada
+description: asdasda
+url: https://egemenayhan3.github.io
+baseurl: /QR_login
+
+plugins: 
+  jekyll-sitemap
